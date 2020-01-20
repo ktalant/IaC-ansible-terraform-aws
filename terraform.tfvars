@@ -1,2 +1,2 @@
 aws_region        = "us-east-1"
-aws_profile       = "talant"
+aws_profile       = "dev-talant"
